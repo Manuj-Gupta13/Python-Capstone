@@ -1,2 +1,2 @@
 # Python-Capstone
-I have created my python capstone prokect on bitcoin analysis.
+I have created my python capstone project on bitcoin analysis.
